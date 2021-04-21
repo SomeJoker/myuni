@@ -4,8 +4,8 @@
     "static/js/0.0a44a77a.chunk.js.map": "/myuni/static/js/0.0a44a77a.chunk.js.map",
     "static/js/1.f03ff326.chunk.js": "/myuni/static/js/1.f03ff326.chunk.js",
     "static/js/1.f03ff326.chunk.js.map": "/myuni/static/js/1.f03ff326.chunk.js.map",
-    "main.js": "/myuni/static/js/main.884d9915.chunk.js",
-    "main.js.map": "/myuni/static/js/main.884d9915.chunk.js.map",
+    "main.js": "/myuni/static/js/main.6432ab39.chunk.js",
+    "main.js.map": "/myuni/static/js/main.6432ab39.chunk.js.map",
     "runtime-main.js": "/myuni/static/js/runtime-main.e21258ed.js",
     "runtime-main.js.map": "/myuni/static/js/runtime-main.e21258ed.js.map",
     "static/css/4.5e469cd8.chunk.css": "/myuni/static/css/4.5e469cd8.chunk.css",
@@ -22,7 +22,7 @@
     "static/js/9.6f7a10a3.chunk.js": "/myuni/static/js/9.6f7a10a3.chunk.js",
     "static/js/9.6f7a10a3.chunk.js.map": "/myuni/static/js/9.6f7a10a3.chunk.js.map",
     "index.html": "/myuni/index.html",
-    "precache-manifest.50cdc11d88a27a6658190b74d6abb7c2.js": "/myuni/precache-manifest.50cdc11d88a27a6658190b74d6abb7c2.js",
+    "precache-manifest.05240769e18c3b669645455a8a0a394d.js": "/myuni/precache-manifest.05240769e18c3b669645455a8a0a394d.js",
     "service-worker.js": "/myuni/service-worker.js",
     "static/css/4.5e469cd8.chunk.css.map": "/myuni/static/css/4.5e469cd8.chunk.css.map",
     "static/js/4.e3dfeb42.chunk.js.LICENSE.txt": "/myuni/static/js/4.e3dfeb42.chunk.js.LICENSE.txt",
@@ -43,7 +43,7 @@
     "static/media/dropup-blue.svg": "/myuni/static/media/dropup-blue.b96d70e1.svg",
     "static/media/link.svg": "/myuni/static/media/link.50c67f3c.svg",
     "static/media/logo.svg": "/myuni/static/media/logo.742edb09.svg",
-    "static/media/logo2.svg": "/myuni/static/media/logo2.a3d93f60.svg",
+    "static/media/logo1.svg": "/myuni/static/media/logo1.afa7c528.svg",
     "static/media/logo_white.svg": "/myuni/static/media/logo_white.bc1aa183.svg",
     "static/media/magnifying-glass.svg": "/myuni/static/media/magnifying-glass.67440097.svg",
     "static/media/menu.svg": "/myuni/static/media/menu.4f2c4440.svg",
@@ -65,6 +65,6 @@
     "static/js/runtime-main.e21258ed.js",
     "static/css/4.5e469cd8.chunk.css",
     "static/js/4.e3dfeb42.chunk.js",
-    "static/js/main.884d9915.chunk.js"
+    "static/js/main.6432ab39.chunk.js"
   ]
 }
